@@ -1,0 +1,17 @@
+body{
+	background-color: #030712 ;
+	display: flex;
+	justify-content: center;
+}
+.first-box {
+	background-image: url(./asset/img/homePic2.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+img{
+	max-width: 100%;
+}
+/* .first-box div{
+	align-content: end;
+} */
